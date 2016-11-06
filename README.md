@@ -10,9 +10,11 @@ reflowOven
 * 110V -> 5V step down DC-> DCv module, e,g, any extra cell phone charger)
 * fan * 2
 * two botton (recycling from an broken PC)
-* KAPTON
+* KAPTON tape
 * 3D printing part for fan adapter and PCB 
 
+# working parameter
+* working PCB size ~ 15*15cm or less
 
 # Design flaw avoidance
 see [Maintaining a list of T962/T962A problems, improvements and suggestions how to get good results #76](https://github.com/UnifiedEngineering/T-962-improvements/issues/76)
